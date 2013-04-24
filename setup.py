@@ -3,7 +3,7 @@ from distutils.core import setup
 VERSION = '0.1'
 
 setup(
-    name = 'node-axon',
+    name = 'axon',
     packages = ['axon'], 
     version = '0.1',
     description = "A library to communicate with visionmedia's axon",

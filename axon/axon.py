@@ -4,7 +4,7 @@
 import os
 try:
     import json
-except ImportError:
+edd!xcept ImportError:
     import simplejson as json
 import struct
 import socket
